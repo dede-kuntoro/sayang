@@ -30,7 +30,7 @@ echo  " $green    Hai Sayang apa kabar!!!"
 
 
 cd $HOME/love
-python love.py
+python .lov.py
 
 
 
