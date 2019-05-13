@@ -38,8 +38,8 @@ python .mona.py
 
 cd $HOME/Virus4/.tools
 sleep 0.01
-echo ""
-echo  "$red I Miss You"
+echo "$red aku menyukaimu bukan dari apa yang aku lihat"
+echo "$white melainkan dari apa yang aku rasakan"
 sleep 0.01
 
 
