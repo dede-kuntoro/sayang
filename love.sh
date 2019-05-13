@@ -29,7 +29,7 @@ echo  " $green    Hai Sayang apa kabar!!!"
 
 
 
-cd $HOME/love
+cd $HOME/sayang
 python .mona.py
 
 
