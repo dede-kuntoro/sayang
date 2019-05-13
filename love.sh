@@ -42,7 +42,7 @@ echo ""
 echo  "$red I Miss You"
 sleep 0.01
 
-echo ""
+
 figlet "Aku" | lolcat
 figlet "Sayang" | lolcat
 figlet "Kamu" | lolcat
