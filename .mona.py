@@ -12,7 +12,7 @@ o = " \033[1;33maku ingin Kamu tahu"
 
 p = " \033[1;33mbahwa Aku suka dirimu"
 
-q = " \033[1;33mBagaimana caramu meyakinkan ku"
+q = " \033[1;33mdari caramu meyakinkan ku"
 
 d = " \033[1;33mAku suka caramu membuatku tersenyum"
 
